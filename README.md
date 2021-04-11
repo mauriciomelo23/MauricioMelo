@@ -3,9 +3,9 @@
 ||Desenvolvedor Java Full Stack||
 
 #### Meus contatos:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/rodrigo-teixeira-59b728103/)](https://www.linkedin.com/in/rodrigo-teixeira-59b728103/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511960598951&text=Olá!)](https://api.whatsapp.com/send?phone=5511960598951&text=Olá!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigo.tchagas@gmail.com)](mailto:rodrigo.tchagas@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/mauricio-melo-502999100/)](https://www.linkedin.com/in/mauricio-melo-502999100/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511960598951&text=Olá!)](https://api.whatsapp.com/send?phone=2111986149440&text=Olá!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mauricio.melo23@gmail.com)](mailto:mauricio.melo23@gmail.com)
 
 #### Conhecimento nas linguagens:
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
