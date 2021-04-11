@@ -1,4 +1,4 @@
-# ### :man_technologist: Olá, eu sou o Rodrigo Teixeira! Bem vindo ao meu GitHub 👋 
+# ### :man_technologist: Oi, eu sou o Mauricio Melo! Bem vindo ao meu GitHub 👋 
 
 ||Desenvolvedor Java Full Stack||
 
