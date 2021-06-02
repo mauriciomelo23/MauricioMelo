@@ -28,7 +28,7 @@
 <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoTeixeiraC&layout=compact&theme=vision-friendly-dark" />
  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=RodrigoTeixeiraC&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 <!--
-**Rodrigo Teixeira/Rodrigo Teixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mauricio Melo/Mauricio Melo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
